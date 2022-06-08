@@ -119,27 +119,6 @@ items.forEach( (item) => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // var array = [1,2,8,4,5];
 // function middle(i) {
 //   if (array[i] !== undefined) {
